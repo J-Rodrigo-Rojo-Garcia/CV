@@ -1,9 +1,10 @@
 # CV
 This is my CV profile. 
 
-Download the document CV.pdf for see my CV and my contact info.
+Download the document CV.pdf for see a resume of my CV and the contact info.
 
-Additionally, you can consult:
+
+For review in deep about my skills and background you can consult:
 
 1) Linkedin
 https://www.linkedin.com/in/jose-rodrigo-rojo-garcia-a05a84164
