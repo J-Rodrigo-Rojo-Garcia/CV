@@ -1,7 +1,9 @@
 # CV
 This is my CV profile. 
 
-Download the PDF document for have acces to the links of my other websites, or alternatively you can consult:
+Download the PDF document for see my CV and have acces to the links of my other websites. 
+
+Alternatively you can consult:
 
 1) Linkedin
 https://www.linkedin.com/in/jose-rodrigo-rojo-garcia-a05a84164
